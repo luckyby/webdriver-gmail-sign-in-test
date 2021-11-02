@@ -1,5 +1,5 @@
 {
-  "name": "webdriver-gmail-sign-in-test",
+  "name": "webdriverio-gmail-sign-in-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luckyby/webdriver-gmail-sign-in-test.git"
+    "url": "git+https://github.com/luckyby/webdriverio-gmail-sign-in-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luckyby/webdriver-gmail-sign-in-test/issues"
+    "url": "https://github.com/luckyby/webdriverio-gmail-sign-in-test/issues"
   },
-  "homepage": "https://github.com/luckyby/webdriver-gmail-sign-in-test#readme",
+  "homepage": "https://github.com/luckyby/webdriverio-gmail-sign-in-test#readme",
   "devDependencies": {
     "@wdio/cli": "^7.16.3",
     "@wdio/local-runner": "^7.16.3",
